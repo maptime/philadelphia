@@ -1,0 +1,10 @@
+baseurl: /MaptimePHL
+permalink: pretty
+markdown: kramdown
+paginate: 5
+repo: MaptimePHL
+github_org: hamhands
+maptime:
+  chapter: MaptimePHL
+  twitter: MaptimePHL
+  #disqus: YOUR DISQUS USERNAME
