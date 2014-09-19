@@ -1,9 +1,9 @@
-baseurl: /MaptimePHL
+baseurl: /philadelphia
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: MaptimePHL
-github_org: hamhands
+repo: philadelphia
+github_org: maptime
 maptime:
   chapter: MaptimePHL
   twitter: MaptimePHL
