@@ -106,7 +106,8 @@ window.onload = function() {
 <div>... and</div>
 <div>I would</div>
 <div>roll</div>
-<div>10,000</div>
+<div>ten</div>
+<div>thousand</div>
 <div><em>tiles</em></div>
 
 </body>
