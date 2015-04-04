@@ -1,23 +1,24 @@
 ## Maptime Starter site
 
-Starter is a simple Jekyll theme for MapTime meetups. Hosting your own meetup? Starter is desgined to be easily forked and tweaked to suit your own needs.
+Hosting your own meetup? Starter is desgined to be easily forked and tweaked to suit your own needs. Starter is a simple Jekyll theme for MapTime meetups. [Jekyll](http://jekyllrb.com/) is a simple, blog-aware, static site generator for personal, project, or organization sites.
 
-## Installation
+## Creating a new chapter
 
-1. [Fork this repo](https://github.com/maptime/starter/fork/).
-2. Edit the [`_config.yml`](https://github.com/maptime/starter/blob/gh-pages/_config.yml) file. Here's a quick rundown of the configuration options.
+1. [Create a ticket here](https://github.com/maptime/starter/issues/new/). Outline the name of your Maptime chapter and who the organizers are by their GitHub username.
+2. Assign the ticket or mention @geografa. He can create a new repository under the Maptime organization account and include your chapter's organizers to administer it.
+3. Edit the [`_config.yml`](https://github.com/maptime/starter/blob/gh-pages/_config.yml) file. Here's a quick rundown of the configuration options.
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
 | baseurl | Yes | post | This value should always be the same. |
 | permalink | No | how urls are generated | You can learn more about how they are generated [here](http://jekyllrb.com/docs/permalinks/). |
 | markdown | No | Determines which markdown engine is used | Generally, you don't need to touch this field for your own needs. |
-| paginate | Yes | Number of posts on the front page | Starter supports pagintaion. Control the number of posts on a given page by changing this value |
+| paginate | Yes | Number of posts on the front page | Starter supports pagination. Control the number of posts on a given page by changing this value |
 | repo | Yes | Name of the repo on GitHub | As an example, the name of the starter repo is `starter` |
 | github_org | Yes | Name of the organization or username on GitHub | Most of the time this will be 'maptime' |
 | maptime: chapter | Yes | Name of your MapTime meetup | |
 | maptime: twitter | No | Your MapTime Twitter username | |
-| maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
+| maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](http://disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
 
 ### Content types
 
@@ -26,20 +27,20 @@ There are two kinds of content in Starter: post and event. You author these type
 #### Event
 Events are for actual planned meetups with RSVP information. Note that the filename of the post should match the date of the meetup date.
 
-##### Fronmatter options
+##### Frontmatter options
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
 | layout | Yes | event | This value should always be the same. |
 | category | Yes | event | This value should always be the same. |
 | title | Yes | The title of your event | |
-| rsvp | Yes | URL to rsvp | This should be a link to  an [Eventbrite](eventbrite.com) date or other service. |
+| rsvp | Yes | URL to rsvp | This should be a link to  an [Eventbrite](http://eventbrite.com) date or other service. |
 
 #### Posts
 
 Posts are like blog posts. These are great for meetup follow ups or posts that don't have a meetup event tied to it.
 
-##### Fronmatter options
+##### Frontmatter options
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
@@ -51,13 +52,14 @@ Posts are like blog posts. These are great for meetup follow ups or posts that d
 ## Help resources
 
 - [Create an issue](https://github.com/maptime/starter/issues) on the Starter repo and we'll respond to it.
-- The site is powered by Jekyll. To make custom tweaks to your own site, you should read it's [documentation](http://jekyllrb.com).
-- Starter makes the assumption you will be running the site on GitHub pages. You can learn more about [GitHub Pages here](https://guides.github.com/features/pages/). 
+- The site is powered by Jekyll. To make custom tweaks to your own site, you should read its [documentation](http://jekyllrb.com/docs/home/).
+- Starter makes the assumption you will be running the site on GitHub pages. You can learn more about [GitHub Pages here](https://guides.github.com/features/pages/).
 
 ## Examples in the wild
 
 Have you used this starter to create your own meetup site? Let us know and we can add it below!
 
+- [MaptimeDC](https://maptime.github.io/dc/)
 - [MaptimeTO](https://maptime.github.io/toronto/)
 
 ## Licence
