@@ -29,14 +29,14 @@ Hosting your own meetup? Starter is desgined to be easily forked and tweaked to 
 
 4. Commit your changes to `_config.yml` and push to GitHub.
 
-### Content types
+## Content types
 
 There are two kinds of content in Starter: post and event. You author these types of content in the `_posts` directory. Each content type has unique configuration options that you should declare at the top of the document. This is called [Frontmatter](http://jekyllrb.com/docs/frontmatter/).
 
 #### Event
 Events are for actual planned meetups with RSVP information. Note that the filename of the post should match the date of the meetup date.
 
-##### Frontmatter options
+##### Front matter options
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ Events are for actual planned meetups with RSVP information. Note that the filen
 
 Posts are like blog posts. These are great for meetup follow ups or posts that don't have a meetup event tied to it.
 
-##### Frontmatter options
+##### Front matter options
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
