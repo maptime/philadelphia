@@ -6,19 +6,27 @@ Hosting your own meetup? Starter is desgined to be easily forked and tweaked to 
 
 1. [Create a ticket here](https://github.com/maptime/starter/issues/new/). Outline the name of your Maptime chapter and who the organizers are by their GitHub username.
 2. Assign the ticket or mention @geografa. He can create a new repository under the Maptime organization account and include your chapter's organizers to administer it.
-3. Edit the [`_config.yml`](https://github.com/maptime/starter/blob/gh-pages/_config.yml) file. Here's a quick rundown of the configuration options.
+3. Edit the [`_config.yml`](https://github.com/maptime/starter/blob/gh-pages/_config.yml) file. Here's a quick rundown of the configuration options:
 
-| Name | Required | Value | Description |
-| --- | --- | --- | --- |
-| baseurl | Yes | post | This value should always be the same. |
-| permalink | No | how urls are generated | You can learn more about how they are generated [here](http://jekyllrb.com/docs/permalinks/). |
-| markdown | No | Determines which markdown engine is used | Generally, you don't need to touch this field for your own needs. |
-| paginate | Yes | Number of posts on the front page | Starter supports pagination. Control the number of posts on a given page by changing this value |
-| repo | Yes | Name of the repo on GitHub | As an example, the name of the starter repo is `starter` |
-| github_org | Yes | Name of the organization or username on GitHub | Most of the time this will be 'maptime' |
-| maptime: chapter | Yes | Name of your Maptime meetup | |
-| maptime: twitter | No | Your Maptime Twitter username | |
-| maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](http://disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
+   **Top-level configuration**
+
+   | Name | Required | Value | Description |
+   | --- | --- | --- | --- |
+   | `baseurl` | Yes | `post` | This value should always be `post`. |
+   | `permalink` | No | How URLs are generated | You can learn more about how they are generated [from the Jekyll documentation](http://jekyllrb.com/docs/   permalinks/). |
+   | `markdown` | No | Determines which markdown engine is used | Generally, you don't need to touch this field for your own needs. |
+   | `paginate` | Yes | Number of posts on the front page | Starter supports pagination. Control the number of posts on a given page by changing this value |
+   | `repo` | Yes | Name of the repo on GitHub | As an example, the name of the starter repo is `starter` |
+   | `github_org` | Yes | Name of the organization or username on GitHub | Most of the time this will be `maptime` |
+
+   **`maptime:` section configuration**
+
+   | Name | Required | Value | Description |
+   | --- | --- | --- | --- |
+   | `chapter` | Yes | Name of your Maptime meetup | |
+   | `twitter` | No | Your Maptime Twitter username | |
+   | `disqus` | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](http://disqus.com). Create a new Disqus account for site and fill this field with the account name. |
+
 
 ### Content types
 
@@ -31,10 +39,10 @@ Events are for actual planned meetups with RSVP information. Note that the filen
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
-| layout | Yes | event | This value should always be the same. |
-| category | Yes | event | This value should always be the same. |
-| title | Yes | The title of your event | |
-| rsvp | Yes | URL to rsvp | This should be a link to  an [Eventbrite](http://eventbrite.com) date or other service. |
+| `layout` | Yes | `event` | This value should always be `event`. |
+| `category` | Yes | `event` | This value should always be `event`. |
+| `title` | Yes | The title of your event | |
+| `rsvp` | Yes | URL to RSVP | This should be a link to  an [Eventbrite](http://eventbrite.com) date or other service. |
 
 #### Posts
 
@@ -44,10 +52,10 @@ Posts are like blog posts. These are great for meetup follow ups or posts that d
 
 | Name | Required | Value | Description |
 | --- | --- | --- | --- |
-| layout | Yes | post | This value should always be the same. |
-| title | Yes | The title of your post | |
-| author | No | Author's name | |
-| image | No | URL path to an image | Images added here will show up as a [Twitter card](https://dev.twitter.com/docs/cards) when a post is shared. |
+| `layout` | Yes | `post` | This value should always be `post`. |
+| `title` | Yes | The title of your post | |
+| `author` | No | Author's name | |
+| `image` | No | URL path to an image | Images added here will show up as a [Twitter card](https://dev.twitter.com/docs/cards) when a post is shared. |
 
 ## Help resources
 
