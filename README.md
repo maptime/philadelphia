@@ -58,6 +58,36 @@ Posts are like blog posts. These are great for meetup follow ups or posts that d
 | `author` | No | Author's name | |
 | `image` | No | URL path to an image | Images added here will show up as a [Twitter card](https://dev.twitter.com/docs/cards) when a post is shared. |
 
+## Creating an event or post
+
+To create an event or post:
+
+1. In the `_posts` directory, create a new Markdown file. Name the file in the pattern of `YYYY-MM-DD-slug.md`, where *YYYY-MM-DD* is the date of the event or post and *slug* is a short, unique identifier for the event or post. For example, a post dated January 1, 2016 entitled "Mappy New Year" might be named `2016-01-01-mappy-new-year.md`.
+
+2. At the top of the Markdown file, add appropriate front matter for your content type. For example:
+
+   ```
+   ---
+   layout: post
+   title: Oceanographic Maps
+   author: Marie Tharp
+   ---
+   ```
+3. Beneath the front matter, write your post or event text. For example:
+
+   ```
+   Check out the *unusual* features of the __ocean floor__ in this map of…
+   ```
+
+4. Preview your post. In a terminal session, run `jekyll serve` from the root directory of this repository. Jekyll will generate the site and provide you with a URL to open in a browser to see your work.
+
+   **Note**: If you get a `command not found` error, Jekyll may not be installed. See Jekyll's [installation instructions](http://jekyllrb.com/docs/installation/) to get up and running.
+
+5. Once you're satisfied with your new event or post, commit the Markdown file and push to GitHub.
+
+   **Note**: If you're using multiple branches, only those changes merged to the `gh-pages` branch will appear on the Maptime site.
+
+
 ## Help resources
 
 - [Create an issue](https://github.com/maptime/starter/issues) on the Starter repo and we'll respond to it.
