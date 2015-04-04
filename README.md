@@ -1,6 +1,6 @@
 ## Maptime Starter site
 
-Hosting your own meetup? Starter is desgined to be easily forked and tweaked to suit your own needs. Starter is a simple Jekyll theme for MapTime meetups. [Jekyll](http://jekyllrb.com/) is a simple, blog-aware, static site generator for personal, project, or organization sites.
+Hosting your own meetup? Starter is desgined to be easily forked and tweaked to suit your own needs. Starter is a simple Jekyll theme for Maptime meetups. [Jekyll](http://jekyllrb.com/) is a simple, blog-aware, static site generator for personal, project, or organization sites.
 
 ## Creating a new chapter
 
@@ -16,8 +16,8 @@ Hosting your own meetup? Starter is desgined to be easily forked and tweaked to 
 | paginate | Yes | Number of posts on the front page | Starter supports pagination. Control the number of posts on a given page by changing this value |
 | repo | Yes | Name of the repo on GitHub | As an example, the name of the starter repo is `starter` |
 | github_org | Yes | Name of the organization or username on GitHub | Most of the time this will be 'maptime' |
-| maptime: chapter | Yes | Name of your MapTime meetup | |
-| maptime: twitter | No | Your MapTime Twitter username | |
+| maptime: chapter | Yes | Name of your Maptime meetup | |
+| maptime: twitter | No | Your Maptime Twitter username | |
 | maptime: disqus | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](http://disqus.com). Create a new Disqus account for a site and fill this field with the account name. |
 
 ### Content types
