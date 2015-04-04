@@ -27,6 +27,7 @@ Hosting your own meetup? Starter is desgined to be easily forked and tweaked to 
    | `twitter` | No | Your Maptime Twitter username | |
    | `disqus` | No | Disqus account name | Starter optionally supports comments on posts with [Disqus](http://disqus.com). Create a new Disqus account for site and fill this field with the account name. |
 
+4. Commit your changes to `_config.yml` and push to GitHub.
 
 ### Content types
 
