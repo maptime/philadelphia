@@ -11,7 +11,9 @@ Smiles and laughter because the person thought we said *nap* time (for real thou
 
 *or* the question ... 
 
+
 <h4> what is maptime? </h4>
+
   
 To this day it remains one of the most popular questions people ask and rightly so. 
 
@@ -31,7 +33,9 @@ And so Maptime was born, at about 6:30 p.m. on June 13, 2013, in San Francisco, 
 
 ![title](http://maptime.io/img/about-maptime.png)
 
+
 <h4>so the idea of maptime makes sense, but how does it work irl? </h4> 
+
 
 From an operations perspective, MaptimeHQ handles the important responsibilities involved with developing the strong foundation necessary to ensure a sustainable institution (e.g., bylaws, 501(c)3 non-profit status). 
 
@@ -49,7 +53,9 @@ That being said, a post attempting to provide a clear vision of what maptime *is
 
 See our [Code of Conduct](http://maptime.io/code-of-conduct/), which describes what maptime *is not* clearly and specifically. Well worth the time it takes to read, regardless of whether you are a prospective member *or* a current member.
 
+
 <h4> Philly can haz maptime? </h4> 
+
 
 We decided to bring a chapter to Philly because many of the ideals maptime stands for resonate with us. In particular, **learning about maps should not have barriers to entry,** which historically has unfortunately not been the status quo.
 
@@ -59,4 +65,4 @@ You can find our chapter on [Meetup](http://www.meetup.com/maptimephl/), and [Tw
 
 And keep an eye out for a follow up post next week, which will explore the specifics of what makes our chapter here in Philly different ...
 
-**NOTE**: The images above are slides from a presentation Beth and Lyzi gave at F0SS4GNA 2015 about the very same topic. It's so, so good and goes beyond the scope of this post. [Click here](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime) to see the rest of the slides.
+**NOTE**: The images above are slides from a presentation Beth and Lyzi gave at F0SS4GNA 2015 about the very same topic. It's so, so good and goes above and beyond the contents of this post. [Click here](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime) to see the rest of the slides.
