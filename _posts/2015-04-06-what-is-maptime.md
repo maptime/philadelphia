@@ -35,11 +35,11 @@ And so Maptime was born, at about 6:30 p.m. on June 13, 2013, in San Francisco, 
 
 From an operations perspective, MaptimeHQ handles the important responsibilities involved with developing the strong foundation necessary to ensure a sustainable institution (e.g., bylaws, 501(c)3 non-profit status). 
 
-**Equally importantly**, MaptimeHQ *enables* local chapter organizers **to succeed** by fostering a positive, welcoming, and constructive environment full of support, rainbows, and high-fives. They lead the way, but also stay out of the way, so chapter organizers have the autonomy to create unique sub-communities reflective of (and appropriate for) their home cities. More and more, chapter organizers support each other by sharing tutorials, tips, and words of encouragement. 
+**Equally importantly**, MaptimeHQ *enables* local chapter organizers **to succeed** by fostering a positive, welcoming, and constructive environment full of support, rainbows, and high-fives. They lead the way, but also stay out of the way, so chapter organizers have the autonomy to create unique sub-communities reflective of (and appropriate for) their home cities. More and more, chapter organizers support each other by 
 
 ![another slide from the phenomenal presentation referenced earlier. for the real deal, [click here](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime)]({{maptime.io/philadelphia}}/img/different-communities.png)
 
-At the local level, groups meet 1-2x a month. Sometimes to just hang out and make maps, and sometimes to learn about specific topics. Throughout it all, learning as much about what it takes to create successful mapping communities as we do about cartography and spatial analysis, constantly evolving for the better. 
+At the local level, groups meet 1-2x a month. Sometimes to just hang out and make maps, and sometimes to learn about specific topics. Throughout it all, learning as much about what it takes to create successful mapping communities as we do about cartography and spatial analysis. And sharing tutorials, tips, and words of encouragement in an attempt to perpetually evolve our community for the better. 
 
 #### This all sounds awesome, can I join maptime? 
 
