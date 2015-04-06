@@ -11,7 +11,8 @@ Smiles and laughter because the person thought we said *nap* time (for real thou
 
 *or* the question ... 
 
-####  what is maptime? 
+#### what is maptime?
+
   
 To this day it remains one of the most popular questions people ask and rightly so. 
 
@@ -21,7 +22,7 @@ Plus, without the firsthand experience of having attended a maptime meeting, it'
 
 **SPOILER ALERT**: It does! :-) 
 
-![a slide from Beth and Lyzi's [fantastic presentation](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime) about Maptime at FOSS4GNA 2015]({{maptime.io/philadelphia}}/img/seriously.png)
+![a slide from Beth and Lyzi's [fantastic presentation](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime) about Maptime at FOSS4GNA 2015]({{ site.baseurl }}/img/seriously.png)
 
 To fully appreciate where Maptime is today, its important to first understand the why, when, and how maptime came to be. I went straight to the source, since the following excerpt from [the History of Maptime](http://maptime.io/about/) tells the origin story better than I ever could:
 
@@ -37,7 +38,7 @@ From an operations perspective, MaptimeHQ handles the important responsibilities
 
 **Equally importantly**, MaptimeHQ *enables* local chapter organizers **to succeed** by fostering a positive, welcoming, and constructive environment full of support, rainbows, and high-fives. They lead the way, but also stay out of the way, so chapter organizers have the autonomy to create unique sub-communities reflective of (and appropriate for) their home cities. More and more, chapter organizers support each other by 
 
-![another slide from the phenomenal presentation referenced earlier. for the real deal, [click here](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime)]({{maptime.io/philadelphia}}/img/different-communities.png)
+![another slide from the phenomenal presentation referenced earlier. for the real deal, [click here](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime)]({{ site.baseurl }}/img/different-communities.png)
 
 At the local level, groups meet 1-2x a month. Sometimes to just hang out and make maps, and sometimes to learn about specific topics. Throughout it all, learning as much about what it takes to create successful mapping communities as we do about cartography and spatial analysis. And sharing tutorials, tips, and words of encouragement in an attempt to perpetually evolve our community for the better. 
 
