@@ -5,8 +5,8 @@
 h1 { font-size:32px; line-height:36px; }
 body { color:#404040; }
 
-a       { color:#279acb; }
-a:hover { text-decoration:underline; }
+a       { color:#279acb; text-decoration:underline; }
+a:hover { text-decoration:inherit; }
 
 .dark a, 
 .dark a:hover { color:#fff; text-decoration:none; }
