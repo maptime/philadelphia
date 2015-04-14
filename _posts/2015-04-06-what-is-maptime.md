@@ -23,9 +23,9 @@ Plus, without the firsthand experience of having attended a maptime meeting, it'
 
 ![a slide from Beth and Lyzi's [fantastic presentation](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime) about Maptime at FOSS4GNA 2015]({{ site.baseurl }}/img/seriously.png)
 
-To fully appreciate where Maptime is today, its important to first understand the why, when, and how maptime came to be. I went straight to the source, since the following excerpt from [the History of Maptime](http://maptime.io/about/) tells the origin story better than I ever could:
+To fully appreciate where Maptime is today, its important to first understand the why, when, and how maptime came to be. So I went straight to the source, and pulled the following excerpt from [a History of Maptime](http://maptime.io/about/):
 
-Maptime started as an idea at the [2013 State of the Map US conference](http://stateofthemap.us/2013/) in response to [a talk by Alyssa Wright challenging the lack of diversity in OpenStreetMap contributions](http://vimeopro.com/openstreetmapus/state-of-the-map-us-2013/video/68098504). Inspired and wanting to become a better mapmaker too, Beth decided that she wanted to make time, once a week, to get together with friends and make maps. Camille liked the idea and helped to host the first one at Stamen’s office.
+Maptime started as an *idea* at the [2013 State of the Map US conference](http://stateofthemap.us/2013/) in response to [a talk by Alyssa Wright challenging the lack of diversity in OpenStreetMap contributions](http://vimeopro.com/openstreetmapus/state-of-the-map-us-2013/video/68098504). Inspired and wanting to become a better mapmaker too, Beth decided that she wanted to make time, once a week, to get together with friends and make maps. Camille liked the idea and helped to host the first one at Stamen’s office.
 
 And so Maptime was born, at about 6:30 p.m. on June 13, 2013, in San Francisco, CA:
 
@@ -35,11 +35,14 @@ And so Maptime was born, at about 6:30 p.m. on June 13, 2013, in San Francisco, 
 
 From an operations perspective, MaptimeHQ handles the important responsibilities involved with developing the strong foundation necessary to ensure a sustainable institution (e.g., bylaws, 501(c)3 non-profit status). 
 
-**Equally importantly**, MaptimeHQ *enables* local chapter organizers **to succeed** by fostering a positive, welcoming, and constructive environment full of support, rainbows, and high-fives. They lead the way, but also stay out of the way, so chapter organizers have the autonomy to create unique sub-communities reflective of (and appropriate for) their home cities. More and more, chapter organizers support each other by 
+**Equally importantly**, MaptimeHQ *enables* local chapter organizers **to succeed** by fostering a positive, welcoming, and constructive environment full of support, rainbows, and high-fives. They lead the way, but also stay out of the way, so chapter organizers have the autonomy to create unique sub-communities reflective of (and appropriate for) their home cities. 
 
-![another slide from the phenomenal presentation referenced earlier. for the real deal, [click here](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime)]({{ site.baseurl }}/img/different-communities.png)
+![another slide from the phenomenal presentation referenced earlier]({{ site.baseurl }}/img/different-communities.png)
 
-At the local level, groups meet 1-2x a month. Sometimes to just hang out and make maps, and sometimes to learn about specific topics. Throughout it all, learning as much about what it takes to create successful mapping communities as we do about cartography and spatial analysis. And sharing tutorials, tips, and words of encouragement in an attempt to perpetually evolve our community for the better. 
+At the local level, . Groups meet 1-2x a month, sometimes to just hang out and make maps and sometimes to learn about specific topics. 
+
+Throughout it all, learning as much about what it takes to create successful mapping communities as we do about cartography and spatial analysis. And sharing tutorials, tips, and words of encouragement in an attempt to perpetually evolve our community for the better. 
+
 
 #### This all sounds awesome, can I join maptime? 
 
@@ -50,10 +53,6 @@ That being said, a post attempting to provide a clear vision of what maptime *is
 See our [Code of Conduct](http://maptime.io/code-of-conduct/), which describes what maptime *is not* clearly and specifically. Well worth the time it takes to read, regardless of whether you are a prospective member *or* a current member.
 
 #### Philly can haz maptime?
-
-We decided to bring a chapter to Philly because many of the ideals maptime stands for resonate with us. In particular, **learning about maps should not have barriers to entry,** which historically has unfortunately not been the status quo.
-
-Some people are *experts*, and some people are *just getting started*, but *all* of us are learning, so **why not do it together?**
 
 You can find our chapter on [Meetup](http://www.meetup.com/maptimephl/), and [Twitter](https://twitter.com/maptimephl). For any questions or comments, send us a note via email - philly@maptime.io
 
