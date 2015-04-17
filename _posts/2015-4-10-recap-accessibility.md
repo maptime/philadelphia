@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Event Recap: What's the deal with accessibility?
+title: Event Recap - What's the deal with accessibility?
 author: Jon Tehrani and Daniel Beck 
 ---
 
-![](/{{ site.baseurl }}/img/accessibility-04-2015.jpg)
+![picture of LeeAnn presenting to the group]({{ site.baseurl }}/img/accessibility-04-2015.jpg)
 
 On Monday, April 6, 2015, MaptimePHL met at Indy Hall to learn the fundamentals of accessibility on the web. [LeeAnn Kinney](https://twitter.com/_leekinney), a front-end developer and organizer for [Girl Develop It Philadelphia](https://www.girldevelopit.com/chapters/philadelphia), gave us a motivating introduction to making our work available to more people. Continue reading for a brief synopsis of the evening, stick around to the end and you'll find links to topic specific resources, and a slew of announcements (including upcoming events) at the end.
 
@@ -20,7 +20,7 @@ We spent the rest of the evening in smaller groups, exploring accessibility thro
 
 ### Resources
 
-* LeeAnn posted [her slides on the web](http://leekinney.github.io/MaptimePHL/#/) which contains a bunch of links to studies, tools, and standards to guide your accessibility efforts.
+* LeeAnn posted [her slides on the web](http://leekinney.github.io/MaptimePHL/#/) which contains a really nice general introduction to web accessibility, as well as a number of specific tools and approaches to use.
 
 * [A fantastic blog post about maps and accessibility](http://www.azavea.com/blogs/atlas/2014/12/a-new-vision-for-accessible-maps/) written by Sarah Cordivano.
 
