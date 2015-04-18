@@ -85,7 +85,11 @@ To create an event or post:
 
 5. Once you're satisfied with your new event or post, commit the Markdown file and push to GitHub.
 
-   **Note**: If you're using multiple branches, only those changes merged to the `gh-pages` branch will appear on the Maptime site.
+   **Note**: If you're using multiple branches, only those changes merged to the `gh-pages` branch will appear on the Maptime site. To merge your changes to the `gh-pages` branch:
+
+   1. Check out the `gh-pages` branch. Run `git checkout gh-pages`.
+   2. Merge `gh-pages` with another branch. Run `git merge master` (or replace `master` with another, relevant branch) and, if applicable, resolve any merge conflicts.
+   3. Push your changes. Run `git push origin gh-pages`.
 
 
 ## Help resources
