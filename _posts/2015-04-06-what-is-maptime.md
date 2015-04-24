@@ -32,7 +32,7 @@ And so Maptime was born, at about 6:30 p.m. on June 13, 2013, in San Francisco, 
 
 ![title](http://maptime.io/img/about-maptime.png)<br>
 
-<h3><strong>so the idea of maptime makes sense, but how does it work irl?</h3><br>
+<h3><strong>so the idea of maptime makes sense, but how does it work irl?</strong></h3><br>
 
 From an operations perspective, MaptimeHQ handles the important responsibilities involved with developing the strong foundation necessary to ensure a sustainable institution (e.g., bylaws, 501(c)3 non-profit status). 
 
