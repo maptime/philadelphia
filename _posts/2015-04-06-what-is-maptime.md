@@ -12,7 +12,7 @@ Smiles and laughter because the person thought we said *nap* time (for real thou
 
 *or* the question ... 
 
-#### what is maptime?
+<h3><strong>what is maptime?</strong></h3>
 
 To this day it remains one of the most popular questions people ask and rightly so. 
 
@@ -32,7 +32,7 @@ And so Maptime was born, at about 6:30 p.m. on June 13, 2013, in San Francisco, 
 
 ![title](http://maptime.io/img/about-maptime.png)
 
-#### so the idea of maptime makes sense, but how does it work irl? 
+<h3><strong>so the idea of maptime makes sense, but how does it work irl?</strong></h3> 
 
 From an operations perspective, MaptimeHQ handles the important responsibilities involved with developing the strong foundation necessary to ensure a sustainable institution (e.g., bylaws, 501(c)3 non-profit status). 
 
@@ -42,7 +42,7 @@ From an operations perspective, MaptimeHQ handles the important responsibilities
 
 At the local level, chapter organizers take the **idea** that *is* maptime and *embrace*, *protect*, *implement*, and *evolve* it. Groups meet 1-2x a month, sometimes to just hang out and make maps and sometimes to learn about specific topics or tools via hands on activities. Along the way, learning as much about what makes **healthy** and **successful** mapping communities *thrive* as we do about maps. And making sure to share these lessons as well as tutorials, tips, and words of encouragement with HQ and other chapters in an attempt to perpetually evolve our community for the better.
 
-<h3>This all sounds awesome, can I join maptime?</h3>
+<h3><strong>This all sounds awesome, can I join maptime?</strong></h3>
 
 Maptime is an *open* learning community by default. Are you a nice person? Are you interested in learning and maps? If the answer to both of these questions is yes, then you can join! 
 
@@ -50,7 +50,7 @@ That being said, a post attempting to provide a clear vision of what maptime *is
 
 See our [Code of Conduct](http://maptime.io/code-of-conduct/), which describes what maptime *is not* clearly and specifically. Well worth the time it takes to read, regardless of whether you are a prospective member *or* a current member.
 
-#### Philly can haz maptime?
+<h3><strong>Philly can haz maptime?</strong></h3>
 
 You can find our chapter on [Meetup](http://www.meetup.com/maptimephl/), and [Twitter](https://twitter.com/maptimephl). For any questions or comments, send us a note via email - philly@maptime.io
 
