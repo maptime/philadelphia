@@ -10,9 +10,9 @@ When [Patrick](https://twitter.com/hamhandedly) and I decided to start a maptime
 
 Smiles and laughter because the person thought we said *nap* time (for real though, how is naptime not a meetup?!)
 
-*or* the question ...<br> 
+*or* the question ... 
 
-<h2><strong>what is maptime?</strong></h2><br>
+<h2><strong>what is maptime?</strong></h2>
 
 To this day it remains one of the most popular questions people ask and rightly so. 
 
@@ -30,9 +30,9 @@ Maptime started as an *idea* at the [2013 State of the Map US conference](http:/
 
 And so Maptime was born, at about 6:30 p.m. on June 13, 2013, in San Francisco, CA:
 
-![title](http://maptime.io/img/about-maptime.png)<br>
+![title](http://maptime.io/img/about-maptime.png)
 
-<h3><strong>so the idea of maptime makes sense, but how does it work irl?</strong></h3><br>
+<h3><strong>so the idea of maptime makes sense, but how does it work irl?</strong></h3>
 
 From an operations perspective, MaptimeHQ handles the important responsibilities involved with developing the strong foundation necessary to ensure a sustainable institution (e.g., bylaws, 501(c)3 non-profit status). 
 
