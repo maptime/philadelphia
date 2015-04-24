@@ -12,7 +12,7 @@ Smiles and laughter because the person thought we said *nap* time (for real thou
 
 *or* the question ...
 
-<h2><strong>what is maptime?</strong></h2>
+<h3><strong>what is maptime?</strong></h3>
 
 To this day it remains one of the most popular questions people ask and rightly so. 
 
