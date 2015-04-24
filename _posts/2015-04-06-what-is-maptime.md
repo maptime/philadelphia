@@ -40,10 +40,9 @@ From an operations perspective, MaptimeHQ handles the important responsibilities
 
 ![another slide from the phenomenal presentation referenced earlier]({{ site.baseurl }}/img/different-communities.png)
 
-At the local level, chapter organizers take the **idea** that *is* maptime and *embrace*, *protect*, *implement*, and *evolve* it. Groups meet 1-2x a month, sometimes to just hang out and make maps and sometimes to learn about specific topics or tools via hands on activities. Along the way, learning as much about what makes **healthy** and **successful** mapping communities *thrive* as we do about maps. And making sure to share these lessons as well as tutorials, tips, and words of encouragement with HQ and other chapters in an attempt to perpetually evolve our community for the better. <br><br> 
+At the local level, chapter organizers take the **idea** that *is* maptime and *embrace*, *protect*, *implement*, and *evolve* it. Groups meet 1-2x a month, sometimes to just hang out and make maps and sometimes to learn about specific topics or tools via hands on activities. Along the way, learning as much about what makes **healthy** and **successful** mapping communities *thrive* as we do about maps. And making sure to share these lessons as well as tutorials, tips, and words of encouragement with HQ and other chapters in an attempt to perpetually evolve our community for the better.
 
-
-<h3>This all sounds awesome, can I join maptime?</h3><br><br> 
+<h3>This all sounds awesome, can I join maptime?</h3>
 
 Maptime is an *open* learning community by default. Are you a nice person? Are you interested in learning and maps? If the answer to both of these questions is yes, then you can join! 
 
