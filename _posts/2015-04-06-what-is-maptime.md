@@ -10,7 +10,7 @@ When [Patrick](https://twitter.com/hamhandedly) and I decided to start a maptime
 
 Smiles and laughter because the person thought we said *nap* time (for real though, how is naptime not a meetup?!)
 
-*or* the question ... 
+*or* the question ...
 
 <h2><strong>what is maptime?</strong></h2>
 
@@ -36,7 +36,7 @@ And so Maptime was born, at about 6:30 p.m. on June 13, 2013, in San Francisco, 
 
 From an operations perspective, MaptimeHQ handles the important responsibilities involved with developing the strong foundation necessary to ensure a sustainable institution (e.g., bylaws, 501(c)3 non-profit status). 
 
-**Equally importantly**, MaptimeHQ *enables* local chapter organizers **to succeed** by fostering a positive, welcoming, and constructive environment full of support, rainbows, and high-fives. They lead the way, but also stay out of the way, so chapter organizers have the autonomy to create unique sub-communities reflective of (and appropriate for) their home cities. 
+**Equally importantly**, MaptimeHQ *enables* local chapter organizers to *succeed* by fostering a positive, welcoming, and constructive environment full of support, rainbows, and high-fives. They lead the way, but also stay out of the way, so chapter organizers have the autonomy to create unique sub-communities reflective of (and appropriate for) their home cities. 
 
 ![another slide from the phenomenal presentation referenced earlier]({{ site.baseurl }}/img/different-communities.png)
 
