@@ -26,7 +26,7 @@ Plus, without the firsthand experience of having attended a maptime meeting, it'
 
 To fully appreciate where Maptime is today, its important to first understand the why, when, and how maptime came to be. So I went straight to the source, and pulled the following excerpt from [a History of Maptime](http://maptime.io/about/):
 
-Maptime started as an *idea* at the [2013 State of the Map US conference](http://stateofthemap.us/2013/) in *response* to a talk **by Alyssa Wright** [challenging the lack of diversity in OpenStreetMap contributions](http://vimeopro.com/openstreetmapus/state-of-the-map-us-2013/video/68098504). Inspired and wanting to become a better mapmaker too, Beth decided that she wanted to make time, once a week, to get together with friends and make maps. Camille liked the idea and helped to host the first one at Stamen’s office.
+Maptime started as an *idea* at the 2013 State of the Map US conference in response to a talk **by Alyssa Wright** [challenging the lack of diversity in OpenStreetMap contributions](http://vimeopro.com/openstreetmapus/state-of-the-map-us-2013/video/68098504). Inspired and wanting to become a better mapmaker too, Beth decided that she wanted to make time, once a week, to get together with friends and make maps. Camille liked the idea and helped to host the first one at Stamen’s office.
 
 And so Maptime was born, at about 6:30 p.m. on June 13, 2013, in San Francisco, CA:
 
@@ -40,7 +40,9 @@ From an operations perspective, MaptimeHQ handles the important responsibilities
 
 ![another slide from the phenomenal presentation referenced earlier]({{ site.baseurl }}/img/different-communities.png)
 
-At the local level, chapter organizers take the **idea** that *is* maptime and *embrace*, *protect*, *implement*, and *evolve* it. Groups meet 1-2x a month, sometimes to just hang out and make maps and sometimes to learn about specific topics or tools via hands on activities. Along the way, learning as much about what makes **healthy** and **successful** mapping communities *thrive* as we do about maps. And making sure to share these lessons as well as tutorials, tips, and words of encouragement with HQ and other chapters in an attempt to perpetually evolve our community for the better.
+At the local level, chapter organizers take the **idea** that *is* maptime and *embrace*, *protect*, *implement*, and *evolve* it. Groups meet 1-2x a month, sometimes to just hang out and make maps and sometimes to learn about specific topics or tools via hands on activities. 
+
+Along the way, we're learning as much about what makes **healthy** and **successful** mapping communities *thrive* as we do about maps. And making sure to share these lessons as well as tutorials, tips, and words of encouragement with each other in an attempt to perpetually evolve our community for the better.
 
 <h3><strong>This all sounds awesome, can I join maptime?</strong></h3>
 
