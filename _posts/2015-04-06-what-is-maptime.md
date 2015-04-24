@@ -2,7 +2,6 @@
 
 layout: post
 title: Excuse Me, Did You Say Maptime?
-author: Jon Tehrani
 
 ---
 
@@ -40,10 +39,12 @@ From an operations perspective, MaptimeHQ handles the important responsibilities
 
 ![another slide from the phenomenal presentation referenced earlier]({{ site.baseurl }}/img/different-communities.png)
 
-At the local level, chapter organizers take the **idea** that *is* maptime and *embrace*, *protect*, *implement*, and *evolve* it. Groups meet 1-2x a month, sometimes to just hang out and make maps and sometimes to learn about specific topics or tools via hands on activities. Along the way, learning as much about what makes **healthy** and **successful** mapping communities *thrive* as we do about maps. And making sure to share these lessons as well as tutorials, tips, and words of encouragement with HQ and other chapters in an attempt to perpetually evolve our community for the better. <br><br> 
+At the local level, (essentially local organizers take idea of maptime, protect it, add to it). Groups meet 1-2x a month, sometimes to just hang out and make maps and sometimes to learn about specific topics. 
+
+Throughout it all, learning as much about what it takes to create successful mapping communities as we do about cartography and spatial analysis. And sharing tutorials, tips, and words of encouragement in an attempt to perpetually evolve our community for the better. 
 
 
-<h3>This all sounds awesome, can I join maptime?</h3><br><br> 
+#### This all sounds awesome, can I join maptime? 
 
 Maptime is an *open* learning community by default. Are you a nice person? Are you interested in learning and maps? If the answer to both of these questions is yes, then you can join! 
 
@@ -55,4 +56,6 @@ See our [Code of Conduct](http://maptime.io/code-of-conduct/), which describes w
 
 You can find our chapter on [Meetup](http://www.meetup.com/maptimephl/), and [Twitter](https://twitter.com/maptimephl). For any questions or comments, send us a note via email - philly@maptime.io
 
-**NOTE**: The images above are slides from a presentation Beth and Lyzi gave at F0SS4GNA 2015 about the same topic as this post. It's so, so good. [Seriously just click this link already](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime) to check the presentation out in it's entirety.
+And keep an eye out for a follow up post next week, which will explore the specifics of what makes our chapter here in Philly different ...
+
+**NOTE**: The images above are slides from a presentation Beth and Lyzi gave at F0SS4GNA 2015 about the very same topic. It's so, so good and goes above and beyond the contents of this post. [Click here](https://speakerdeck.com/bethschechter/what-time-is-it-its-maptime) to see the rest of the slides.
