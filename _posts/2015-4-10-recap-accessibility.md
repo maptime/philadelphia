@@ -41,6 +41,6 @@ We spent the rest of the evening in smaller groups, exploring accessibility thro
 
 * MaptimePHL has a website! Since you're reading this recap you already knew that, but it was under wraps until the meeting. The site is going to be a home for event info (announcements & recaps), general Philly geo happenings, and more.
 
-* Mark your calendars for Wednesday, April 29th because MaptimePHL is having another option night, where you can get together with other map enthusiasts to learn and create in a welcoming, collaborative environment. It'll be fun, so bring your friends.
+* Mark your calendars for Monday, May 11th because MaptimePHL is having another option night, where you can get together with other map enthusiasts to learn and create in a welcoming, collaborative environment. It'll be fun, so bring your friends.
 
 * Also upcoming: On May 30, MaptimePHL is hosting an Open Street Map Food Resources Hackathon with Sterling Quinn.
