@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: [Event Announcement] What's the deal with option night?
+title: "[Event Announcement] What's the deal with option night?"
 rsvp: http://www.meetup.com/maptimePHL/events/222071008/
 ---
 
