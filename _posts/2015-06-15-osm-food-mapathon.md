@@ -22,7 +22,9 @@ One such project is the [Philly Fresh Food Map](http://www.geovista.psu.edu/phil
 
 ### why is this so important?
 
-Many farms and community gardens are located in low-income neighborhoods that appear as acres of empty blocks in commercial or government-produced online maps. OSM allows for sites of urban food production to be given a place on the map, opening the door to a bottom-up re-portrayal of space that emphasizes the production of basic daily needs.
+Many farms and community gardens are located in low-income neighborhoods that appear as acres of empty blocks in commercial or government-produced online maps. 
+
+<blockquote><p>OSM allows for sites of urban food production to be given a place on the map, opening the door to a bottom-up re-portrayal of space that emphasizes the production of basic daily needs.</p></blockquote>
 
 So last year, Penn State researchers *proposed* and *documented* a **standard set of tags** for storing food resources in OSM, then amassed a number of student and community volunteers to gather Philadelphia's food data and add it to OSM. 
 
