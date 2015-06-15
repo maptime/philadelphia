@@ -20,7 +20,7 @@ One such project is the [Philly Fresh Food Map](http://www.geovista.psu.edu/phil
 
 ![screenshot of food resources map]({{ site.baseurl }}/img/P1011371.JPG)
 
-<h4>why is this so important?</h4>
+### why is this so important?
 
 Many farms and community gardens are located in low-income neighborhoods that appear as acres of empty blocks in commercial or government-produced online maps. OSM allows for sites of urban food production to be given a place on the map, opening the door to a bottom-up re-portrayal of space that emphasizes the production of basic daily needs.
 
