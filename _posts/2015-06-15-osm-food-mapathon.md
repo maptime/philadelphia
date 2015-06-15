@@ -10,7 +10,9 @@ author: Sterling Quinn
 
 ![picture of Sterling presenting to the group]({{ site.baseurl }}/img/P1011363.JPG)
 
-On May 31, I visited MaptimePHL to show how [OpenStreetMap](www.openstreetmap.org/#map=11/40.0024/-74.9982) (OSM) can store information about community food resources in a common digital location. OSM is a free online map of the world that anyone can edit, similar in style to Wikipedia. Editing the map is fun and straightforward, and can be learned in a few minutes. At last week's State of the Map conference, Britta Ricker even described OSM as a ["gateway drug" to deeper learning](http://stateofthemap.us/evolving-technology-shifting-expectations-cultivating-pedagogy-for-a-rapidly-changing-gis-landscape/) about geographic technologies.
+On May 31, I visited MaptimePHL to show how [OpenStreetMap](www.openstreetmap.org/#map=11/40.0024/-74.9982) (OSM) can store information about community food resources in a common digital location. 
+
+OSM is a free online map of the world that anyone can edit, similar in style to Wikipedia. Editing the map is fun and straightforward, and can be learned in a few minutes. At last week's State of the Map conference, Britta Ricker even described OSM as a ["gateway drug" to deeper learning](http://stateofthemap.us/evolving-technology-shifting-expectations-cultivating-pedagogy-for-a-rapidly-changing-gis-landscape/) about geographic technologies.
 
 While academics have noted that OSM has some hurdles to overcome before becoming truly democratic in nature, many positive and productive use cases currently exist. For example, **local-scale focused projects that have an enhusiastic volunteer base** work particularly well. 
 
@@ -18,10 +20,8 @@ One such project is the [Philly Fresh Food Map](http://www.geovista.psu.edu/phil
 
 ![screenshot of food resources map]({{ site.baseurl }}/img/P1011371.JPG)
 
-
 <h4>why is this so important?</h4>
 
- 
 Many farms and community gardens are located in low-income neighborhoods that appear as acres of empty blocks in commercial or government-produced online maps. OSM allows for sites of urban food production to be given a place on the map, opening the door to a bottom-up re-portrayal of space that emphasizes the production of basic daily needs.
 
 So last year, Penn State researchers *proposed* and *documented* a **standard set of tags** for storing food resources in OSM, then amassed a number of student and community volunteers to gather Philadelphia's food data and add it to OSM. 
