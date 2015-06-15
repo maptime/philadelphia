@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Event Recap - What's the deal with accessibility?
-author: Jon Tehrani and Daniel Beck 
+title: "[RECAP] What's the deal with accessibility?"
+author: Daniel Beck and Jon Tehrani
 ---
 
 ![picture of LeeAnn presenting to the group]({{ site.baseurl }}/img/accessibility-04-2015.jpg)
